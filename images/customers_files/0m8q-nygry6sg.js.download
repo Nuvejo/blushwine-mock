@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="019f8f7e-318f-7773-a959-02f48c407d24")}catch(e){}}();(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,455709,e=>{"use strict";var i=e.i(713591),r=e.i(492643),t=e.i(755476),l=e.i(295840),c=e.i(237733);let s=(0,r.memo)(({defaultVariant:e,...r})=>{let{getComponentVariantForTheme:s}=(0,l.useTheme)(),a=(0,t.useIsEditing)();if(!r.kicker&&!a)return null;let{config:u,variant:n}=s("kicker",e),k=(0,c.getThemableVariant)("kicker",n),m={...u,...r};return(0,i.jsx)(k,{...m})});s.displayName="Kicker",e.s(["ThemableKickerWrapper",0,s])},323285,e=>{e.n(e.i(455709))}]);
+
+//# sourceMappingURL=0kwm~zzzvi6vs.js.map
+//# chunkId=019f8f7e-318f-7773-a959-02f48c407d24
