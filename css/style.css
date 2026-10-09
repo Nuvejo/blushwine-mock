@@ -614,3 +614,8 @@ body.is-locked { overflow: hidden; }
   .header, .drawer, .burger, .hero__scroll, .map, .booking__summary { display: none !important; }
   body { background: #fff; color: #000; }
 }
+
+/* Demo badge — links back to nuvejo.com.au */
+.demo-badge-row { display: flex; justify-content: flex-end; margin-top: 1rem; }
+.demo-badge { font-size: 12px; line-height: 1.4; letter-spacing: 0.02em; color: inherit; opacity: 0.65; text-decoration: none; transition: opacity 0.2s ease; }
+.demo-badge:hover, .demo-badge:focus-visible { opacity: 1; text-decoration: underline; }
